@@ -1,2 +1,1 @@
-
-    const countriesURL = 'https://restcountries.com/v3.1/all';
+const countriesURL = 'https://restcountries.com/v3.1/all';
